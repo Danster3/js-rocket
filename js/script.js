@@ -15,7 +15,7 @@ var car = {
     },
 
     fly: function(){
-        alert('fly');
+        alert('I love you Sonya');
     }
 
 
